@@ -1,16 +1,21 @@
-Olá! Meu nome é Bernardo, tenho 20 anos e sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Atualmente estudo Sistemas de Informação na Unimater e moro em Pato Branco - PR.
+👋 About Me
+Hey there! I'm Bernardo, a 20-year-old Full Stack Developer passionate about technology, clean code, and innovation.
+I'm currently studying Information Systems at Unimater, and I live in Pato Branco, Brazil.
 
-💻 Tecnologias que uso no dia a dia:
+💻 Tech Stack I Use Daily
+Backend:
+Java, SQL
 
-Backend: Java, SQL
+Frontend:
+HTML, CSS, JavaScript, TypeScript, Angular
 
-Frontend: HTML, CSS, JavaScript, TypeScript, Angular
+Mobile:
+Flutter, Dart
 
-Mobile: Flutter, Dart
+🎮 Interests & Hobbies
+When I'm not coding, you’ll probably find me playing games on Steam or PSN, or listening to music on Spotify.
+I love exploring new technologies, frameworks, and always strive to improve my skills and build meaningful, well-crafted solutions.
 
-🎮 Hobbies e interesses:
-Sou fã de jogos e passo um bom tempo na Steam e na PSN. Curto ouvir música no Spotify enquanto codifico e gosto de explorar novas tecnologias e frameworks.
+🚀 Always learning, always building!
 
-🚀 Sempre buscando aprender mais, crescer como desenvolvedor e criar soluções úteis e bem-feitas!
-
-<img href="https://www.planetcarsz.com/img/carros/galeria/2023/03/mitsubishi-lancer-evolution-x-fq-440-mr-2014-02-20230316114500-1600x1069.jpg" alt="carro favorito" width="300"/>
+<br> <img src="./lancer" alt="My favorite car" width="300"/>
