@@ -18,4 +18,4 @@ I love exploring new technologies, frameworks, and always strive to improve my s
 
 🚀 Always learning, always building!
 
-<br> <img src="./lancer" alt="My favorite car" width="300"/>
+![My favorite car](./lancer.jpg)
